@@ -1,17 +1,28 @@
 {
- "last_sent": {},
+ "last_sent": {
+  "WTI|2|DOWN": 1793576245,
+  "WTI|4|DOWN": 1793576245
+ },
  "seen": {
   "3 Catalysts Cramer Says Could Extend the Nasdaq Sell-Off This Week": 1793574142,
   "3 Oil And Gas Stocks Linked To Higher Brent Prices": 1793555983,
   "5 things to watch on the ASX 200 on Monday 2 November 2026": 1793567669,
-  "Azerbaijan's Renewable Energy Boom Is Transforming Its Power Sector": 1793553945,
   "Bitcoin Uptober Failed as Oil, Bonds and AI Broke Pattern: What Changed?": 1793574142,
-  "Cheniere Shipped Its First LNG Cargo in 2016. Here\u2019s What $1,000 Invested Then Is Worth": 1793553945,
   "Crescent Energy (CRGY) Q3 earnings report preview: what to look for": 1793571935,
+  "Earnings to watch: California Resources (CRC) reports Q3 results tomorrow": 1793576247,
   "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises": 1793565379,
-  "Nasdaq 100 Forecast: NDX slumps as Amazon and Intel disappoint": 1793553945,
+  "Oil Prices Drop 1% as Iran War Talks Continue | Market Update": 1793576247,
   "Oil Settles Lower Amid Middle East Diplomatic Efforts": 1793563185,
-  "U.S. Labs Look to New Materials to Close China's Nuclear Lead": 1793558477
+  "Oil slips more than 1% as talks continue on ending Iran war By Reuters": 1793576247,
+  "U.S. Labs Look to New Materials to Close China's Nuclear Lead": 1793558477,
+  "WTI and Brent Crude Oil Prices Fall $2 as U.S.-Iran Peace Talks Raise Hopes of De-escalation": 1793576247
  },
- "zones": {}
+ "zones": {
+  "Brent|1": null,
+  "Brent|2": null,
+  "Brent|4": null,
+  "WTI|1": null,
+  "WTI|2": null,
+  "WTI|4": null
+ }
 }
